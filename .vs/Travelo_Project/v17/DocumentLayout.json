@@ -1,0 +1,1065 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\presentation\\controller\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\user\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F783BAA8-D2AA-4902-AA22-BE1F0FF86F9D}|Travelo_Project\\Travelo_Project.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\travelo_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F783BAA8-D2AA-4902-AA22-BE1F0FF86F9D}|Travelo_Project\\Travelo_Project.csproj|solutionrelative:travelo_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F783BAA8-D2AA-4902-AA22-BE1F0FF86F9D}|Travelo_Project\\Travelo_Project.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\travelo_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F783BAA8-D2AA-4902-AA22-BE1F0FF86F9D}|Travelo_Project\\Travelo_Project.csproj|solutionrelative:travelo_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\mappingprofile\\reviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\mappingprofile\\reviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\payment\\confirmpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\payment\\confirmpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\presentation\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\presentation\\controller\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\user\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\review\\updatereviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\review\\updatereviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\reviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\ireviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\ireviewservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\persistance\\dataseed\\identitydataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\dataseed\\identitydataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\user\\touristuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user\\touristuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\user\\hoteluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user\\hoteluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\user\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\booking\u0026transaction\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\booking\u0026transaction\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\booking\u0026transaction\\tourbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\booking\u0026transaction\\tourbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\booking\u0026transaction\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\booking\u0026transaction\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\booking\u0026transaction\\flightbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\booking\u0026transaction\\flightbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\user\\reviewtargettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user\\reviewtargettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\hotels \u0026 accommodation\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\hotels \u0026 accommodation\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\hotels \u0026 accommodation\\hotelamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\hotels \u0026 accommodation\\hotelamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\hotels \u0026 accommodation\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\hotels \u0026 accommodation\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\booking\\updatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\booking\\updatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\presentation\\controller\\transactionsadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\transactionsadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\serviceabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\serviceabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\presentation\\controller\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\review\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\mappingprofile\\flightpriceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\mappingprofile\\flightpriceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\mappingprofile\\flightofferprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\mappingprofile\\flightofferprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\identity\\applicationroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\identity\\applicationroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\flightdto\\flightprice\\flightpricecreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\flightdto\\flightprice\\flightpricecreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\flight\\iflightpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\flight\\iflightpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceabstraction\\flight\\iflightofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE40402-AB07-4285-83A7-9F987CBF60B6}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\flight\\iflightofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\mappingprofile\\flightprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\mappingprofile\\flightprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\persistance\\repositoryimplementation\\flights\\airportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositoryimplementation\\flights\\airportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\flightdto\\airport\\airportdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\flightdto\\airport\\airportdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\flight\\airportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\flight\\airportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\flightdto\\airport\\airportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\flightdto\\airport\\airportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\flightdto\\flightoffer\\flightofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\flightdto\\flightoffer\\flightofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\persistance\\repositoryimplementation\\flights\\flightofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E586CF-6038-4323-9A6C-2A0194AB6EB7}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositoryimplementation\\flights\\flightofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\flightdto\\flightoffer\\flightofferupdateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\flightdto\\flightoffer\\flightofferupdateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\serviceimplementation\\flight\\flightofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB0731-7B31-4B6B-A182-121687710ACD}|ServiceImplementation\\ServiceImplementation.csproj|solutionrelative:serviceimplementation\\flight\\flightofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\repositoryinterface\\flights\\iflightofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositoryinterface\\flights\\iflightofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\presentation\\controller\\flightoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C37B291-4701-4F15-A653-AFA9B137B566}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\flightoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\shared\\dto\u0027s\\flightdto\\flightoffer\\flightoffercreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22BDD-299A-4FF0-8B4F-3336841D6516}|Shared\\Shared.csproj|solutionrelative:shared\\dto\u0027s\\flightdto\\flightoffer\\flightoffercreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|c:\\users\\hp\\desktop\\travelo\\backend\\domainlayer\\models\\flights\\flightoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE80C20-80A4-4A3C-B2AB-A038814BA4A8}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\flights\\flightoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1112,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:06:52.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Travelo_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Travelo_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Travelo_Project\\Program.cs",
+              "RelativeToolTip": "Travelo_Project\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIA6wC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:33:54.343Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\Payment.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User\\Payment.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\Payment.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User\\Payment.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA6wCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:12:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\ReviewProfile.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\MappingProfile\\ReviewProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\ReviewProfile.cs",
+              "RelativeToolTip": "ServiceImplementation\\MappingProfile\\ReviewProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:43:17.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\BookingService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\BookingService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\BookingService.cs",
+              "RelativeToolTip": "ServiceImplementation\\BookingService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAArwF0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:08:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\PaymentController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\PaymentController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:50:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Travelo_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Travelo_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Travelo_Project\\appsettings.json",
+              "RelativeToolTip": "Travelo_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T20:52:42.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\PaymentService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\PaymentService.cs",
+              "RelativeToolTip": "ServiceImplementation\\PaymentService.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAkwBQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:03:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\BookingController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\BookingController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\BookingController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\BookingController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:35:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\Review.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User\\Review.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\Review.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User\\Review.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:25:42.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IBookingService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IBookingService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:00:42.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Review\\UpdateReviewDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\Review\\UpdateReviewDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Review\\UpdateReviewDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\Review\\UpdateReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:40:01.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfirmPaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Payment\\ConfirmPaymentDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\Payment\\ConfirmPaymentDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Payment\\ConfirmPaymentDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\Payment\\ConfirmPaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:06:52.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReviewServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IReviewServices.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\IReviewServices.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IReviewServices.cs",
+              "RelativeToolTip": "ServiceAbstraction\\IReviewServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:23:59.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\ReviewController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\ReviewController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAMwEMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:50:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\ReviewServices.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\ReviewServices.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\ReviewServices.cs",
+              "RelativeToolTip": "ServiceImplementation\\ReviewServices.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:24:23.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAuwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:50:51.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\AuthService.cs",
+              "RelativeToolTip": "ServiceImplementation\\AuthService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:07:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TouristUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\TouristUser.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User\\TouristUser.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\TouristUser.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User\\TouristUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:13:02.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IAuthService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:10:00.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T19:52:45.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HotelUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\HotelUser.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User\\HotelUser.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\HotelUser.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User\\HotelUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:32:37.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IdentityDataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "RelativeDocumentMoniker": "Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "RelativeToolTip": "Persistance\\DataSeed\\IdentityDataSeed.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:24:23.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\ApplicationUser.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User\\ApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T19:54:11.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\ApplicationRole.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T19:54:18.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\Transaction.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Booking\u0026Transaction\\Transaction.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\Transaction.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Booking\u0026Transaction\\Transaction.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:15:25.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TourBooking.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\TourBooking.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Booking\u0026Transaction\\TourBooking.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\TourBooking.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Booking\u0026Transaction\\TourBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:38:46.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HotelBooking.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\HotelBooking.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Booking\u0026Transaction\\HotelBooking.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\HotelBooking.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Booking\u0026Transaction\\HotelBooking.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:57:13.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FlightBooking.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\FlightBooking.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Booking\u0026Transaction\\FlightBooking.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Booking\u0026Transaction\\FlightBooking.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Booking\u0026Transaction\\FlightBooking.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:38:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReviewTargetType.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\ReviewTargetType.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User\\ReviewTargetType.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\User\\ReviewTargetType.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User\\ReviewTargetType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:25:38.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Hotels \u0026 Accommodation\\Hotel.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Hotels \u0026 Accommodation\\Hotel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Hotels \u0026 Accommodation\\Hotel.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Hotels \u0026 Accommodation\\Hotel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:39:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HotelAmenity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Hotels \u0026 Accommodation\\HotelAmenity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Hotels \u0026 Accommodation\\HotelAmenity.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Hotels \u0026 Accommodation\\HotelAmenity.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Hotels \u0026 Accommodation\\HotelAmenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:39:17.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Hotels \u0026 Accommodation\\Amenity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Hotels \u0026 Accommodation\\Amenity.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Hotels \u0026 Accommodation\\Amenity.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Hotels \u0026 Accommodation\\Amenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:39:16.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\TransactionService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\TransactionService.cs",
+              "RelativeToolTip": "ServiceImplementation\\TransactionService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:42:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\ITransactionService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:41:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Booking\\CreateBookingDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\Booking\\CreateBookingDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Booking\\CreateBookingDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\Booking\\CreateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:10:31.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Booking\\UpdateBookingDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\Booking\\UpdateBookingDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Booking\\UpdateBookingDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\Booking\\UpdateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:10:32.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\IPaymentService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:25:09.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TransactionsAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\TransactionsAdminController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\TransactionsAdminController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\TransactionsAdminController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\TransactionsAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:50:03.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\FlightController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\FlightController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\FlightController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\FlightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:36:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServiceAbstraction.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\ServiceAbstraction.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj",
+              "RelativeToolTip": "ServiceAbstraction\\ServiceAbstraction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T21:59:55.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Review\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\Review\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Review\\ReviewDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\Review\\ReviewDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:39:59.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FlightPriceProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\FlightPriceProfile.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\MappingProfile\\FlightPriceProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\FlightPriceProfile.cs",
+              "RelativeToolTip": "ServiceImplementation\\MappingProfile\\FlightPriceProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:08:41.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Review\\CreateReviewDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\Review\\CreateReviewDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Review\\CreateReviewDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\Review\\CreateReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:39:58.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FlightOfferProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\FlightOfferProfile.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\MappingProfile\\FlightOfferProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\FlightOfferProfile.cs",
+              "RelativeToolTip": "ServiceImplementation\\MappingProfile\\FlightOfferProfile.cs",
+              "ViewState": "AgIAAAEAAAAAzczMzMwYwBYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:14:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Identity\\ApplicationRoleDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\Identity\\ApplicationRoleDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\Identity\\ApplicationRoleDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\Identity\\ApplicationRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:39:50.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FlightPriceCreatedDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightPrice\\FlightPriceCreatedDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\FlightDto\\FlightPrice\\FlightPriceCreatedDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightPrice\\FlightPriceCreatedDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\FlightDto\\FlightPrice\\FlightPriceCreatedDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:17:31.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IFlightPriceService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\flight\\IFlightPriceService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\flight\\IFlightPriceService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\flight\\IFlightPriceService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\flight\\IFlightPriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:17:06.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IFlightOfferService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\flight\\IFlightOfferService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\flight\\IFlightOfferService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceAbstraction\\flight\\IFlightOfferService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\flight\\IFlightOfferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:17:57.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FlightProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\FlightProfile.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\MappingProfile\\FlightProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\MappingProfile\\FlightProfile.cs",
+              "RelativeToolTip": "ServiceImplementation\\MappingProfile\\FlightProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T19:52:57.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AirportService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\flight\\AirportService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\flight\\AirportService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\flight\\AirportService.cs",
+              "RelativeToolTip": "ServiceImplementation\\flight\\AirportService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:02:34.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AirportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\RepositoryImplementation\\Flights\\AirportRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\RepositoryImplementation\\Flights\\AirportRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\RepositoryImplementation\\Flights\\AirportRepository.cs",
+              "RelativeToolTip": "Persistance\\RepositoryImplementation\\Flights\\AirportRepository.cs",
+              "ViewState": "AgIAABIAAABAZmZmZmYmwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:49:00.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AirportDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDetailsDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDetailsDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDetailsDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:47:00.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AirportDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\FlightDto\\Airport\\AirportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:46:42.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FlightOfferUpdatedDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferUpdatedDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferUpdatedDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferUpdatedDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferUpdatedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:28:38.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FlightOfferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\RepositoryImplementation\\Flights\\FlightOfferRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\RepositoryImplementation\\Flights\\FlightOfferRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Persistance\\RepositoryImplementation\\Flights\\FlightOfferRepository.cs",
+              "RelativeToolTip": "Persistance\\RepositoryImplementation\\Flights\\FlightOfferRepository.cs",
+              "ViewState": "AgIAAA4AAAAANDMzMzMfwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:15:22.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FlightOfferDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:08:57.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FlightOfferService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\flight\\FlightOfferService.cs",
+              "RelativeDocumentMoniker": "ServiceImplementation\\flight\\FlightOfferService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\ServiceImplementation\\flight\\FlightOfferService.cs",
+              "RelativeToolTip": "ServiceImplementation\\flight\\FlightOfferService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAIBJwF0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:18:05.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IFlightOfferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "RelativeToolTip": "DomainLayer\\RepositoryInterface\\Flights\\IFlightOfferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:17:38.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FlightOfferController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\FlightOfferController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\FlightOfferController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Presentation\\Controller\\FlightOfferController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\FlightOfferController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:15:19.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FlightOffer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Flights\\FlightOffer.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Flights\\FlightOffer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\DomainLayer\\Models\\Flights\\FlightOffer.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Flights\\FlightOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:08:37.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FlightOfferCreatedDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferCreatedDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferCreatedDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Travelo\\Backend\\Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferCreatedDto.cs",
+              "RelativeToolTip": "Shared\\Dto\u0027s\\FlightDto\\FlightOffer\\FlightOfferCreatedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:07:28.86Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
